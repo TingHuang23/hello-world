@@ -13,3 +13,7 @@ This is an example of a GitHub repository.
 test!
 
 add another change
+
+Change in the Gitpod environment
+
+Some more changes!
